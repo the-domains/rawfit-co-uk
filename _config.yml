@@ -1,0 +1,28 @@
+name: rawfit.co.uk
+favicon: null
+layout_spectrum: 0.8299370622262359
+typography_spectrum: 0.6256128568202257
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9829584571998566
+  lightness: 0.8675789257977158
+  saturation: 0.5389505971688777
+  rhythmicContrast: 0.33462746953591704
+purpose: []
